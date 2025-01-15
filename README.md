@@ -1,6 +1,9 @@
 # MusicAPI
 Music player, controlled by an API
 
+## 🚨 On Hold
+This project is on hold. I am unsure if / when I will work on it again.
+
 ## API Documentation
 ### /active *(GET)*
 Returns a blank JSON response ASAP when then API is running.
